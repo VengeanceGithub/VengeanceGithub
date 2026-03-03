@@ -30,33 +30,25 @@
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cs,php,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,css,html,php,python,mysql" />
 </p>
 
 ### 🧰 Tools & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,windows,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,windows,vscode,godot" />
 </p>
 
 ---
 
 ## 🚀 Projects
 
-### 🏫 University Management System
-- JavaFX Application
-- MySQL Database
-- Role-based Login System
+### Godot projects 
+- game inspired by jump king
 
-### 🤖 University Chatbot
-- Python 3.8
-- LLM Integration
-- Student Support System
 
-### 🎮 2 Player Tank Game
-- Java Swing
-- Multiplayer Local Game
 
----
+
+
 
 ## 📊 GitHub Stats
 
