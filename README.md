@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jawkhlan</h1>
-<h3 align="center">Computer Science Student | Backend & Java Developer</h3>
+
+<h3 align="center">Computer Science Student | Developer</h3>
 
 <p align="center">
   <a href="https://github.com/VengeanceGithub">
@@ -11,6 +12,9 @@
   <a href="https://www.instagram.com/whywhy549">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://www.youtube.com/@broJakka">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
   <a href="mailto:gamerjakka@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -18,8 +22,16 @@
 
 ---
 
-## 👨‍💻 About Me
 
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+</p>
+
+
+## 👨‍💻 About Me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&size=24&center=true&vCenter=true&width=600&lines=4th+Year+CS+Student;Godot+Game+Developer;Java+Backend+Developer;Building+Cool+Stuff" />
+</p>
 - 🎓 4th Year Computer Science Student  
 - 🎮 Learning Godot Game Development  
 - 🎸 Learning Electric Guitar  
@@ -30,7 +42,7 @@
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=java,css,html,php,python,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,css,html,php,python,mysql,godot" />
 </p>
 
 ### 🧰 Tools & Frameworks
@@ -50,15 +62,6 @@
 
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
